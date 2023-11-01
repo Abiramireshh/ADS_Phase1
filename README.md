@@ -111,7 +111,8 @@ dependencies,such as the use of' requirements.txt' files
 
  If your project requires configuration settings, explain how to set them up, Include information on configuration files purpose,if applicable 
 
- ## contribution 
+ ## contributing 
+ Explain how other can contribute to your project is include information  about how to submit issues,pull request,and anycoding guide line.
 
   
   
