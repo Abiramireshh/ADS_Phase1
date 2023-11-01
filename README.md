@@ -25,3 +25,10 @@ product demand prediction with machine learning
 5.[Data]
 6.[Training]
 7.[Evaluation]
+
+## Introduction 
+
+provide the brief introduction to our project, Explain what the goal of the project is, and any relevant information.
+## Installation 
+Explain how to install or setup your project. include any installation steps such as:
+- clone repository: git clone https:/
